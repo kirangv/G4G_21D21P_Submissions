@@ -1,29 +1,3 @@
-https://www.geeksforgeeks.org/courses/twenty-projects-in-twenty-days
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-1. 21 Projects in 21 Days Batch 7:L1:Data Storytelling: Analysing Survival on the Titanic - Harshvardhan Singh
-2. 21 Projects in 21 Days Batch 7:L2:Cracking the Code: An Inside Look at Netflix's Content Strategy - Harshvardhan Singh
-3. 21 Projects in 21 Days Batch 7:L3:Predicting Housing Market Trends with AI - Harshvardhan Singh
-4. 21 Projects in 21 Days Batch 7:L4:AI in Healthcare: Building a Life-Saving Heart Disease Predictor - Harshvardhan Singh
-5. 21 Projects in 21 Days Batch 7:L5:Smart Segmentation: Unlocking Customer Personas with AI - Harshvardhan Singh
-6. 21 Projects in 21 Days Batch 7:L6:Predicting Future Store Sales with AI - Harshvardhan Singh
-7. 21 Projects in 21 Days Batch 7:L7:Preventing Customer Churn with Feature Transformation - Harshvardhan Singh
-8. 21 Projects in 21 Days Batch 7:L8:Vision AI Fundamentals: Building a Digit Recognizer from Scratch - Harshvardhan Singh
-3. 21 Projects in 21 Days Batch 7:L9: Advanced Vision AI: Fast-Tracking Image Classification with Transfer Learning - Harshvardhan Singh
-10. 21 Projects in 21 Days Batch 7:L10:The AI Swiss Army Knife: One-Line Solutions with Hugging Face Pipelines - Harshvardhan Singh
-11. 21 Projects in 21 Days Batch 7:L11:Real-World Computer Vision: Building a Real-Time Object Detector - Harshvardhan Singh
-12. 21 Projects in 21 Days Batch 7:L12:Next-Gen Forecasting: Applying Deep Learning to Time Series Data - Harshvardhan Singh
-13. 21 Projects in 21 Days Batch 7:L13:Build Your Own GPT: Creating a Custom Text Generation Engine - Harshvardhan Singh
-14. 21 Projects in 21 Days Batch 7:L14:Data Analysis with AI Tools - Harshvardhan Singh
-15. 21 Projects in 21 Days Batch 7:L15:Talk to Your Data: Building a Natural Language to SQL Generator - Harshvardhan Singh
-16. 21 Projects in 21 Days Batch 7:L16:Intelligent Document Automation: Building a Smart OCR Bot - Harshvardhan Singh
-17. 21 Projects in 21 Days Batch 7:L17:Build Your Own Intelligent Image Search Engine - Harshvardhan Singh
-18. 21 Projects in 21 Days Batch 7:L18:Chat with Your Knowledge Base: Building a Powerful RAG Chatbot - Harshvardhan Singh
-19. 21 Projects in 21 Days Batch 7:L19:Autonomous Market Analyst: Building AI Agents for Deep Research - Harshvardhan Singh
-20. 21 Projects in 21 Days Batch 7:L 20:Background Verification & Diligence Agent - Harshvardhan Singh
-21. 21 Projects in 21 Days Batch 7:L21:Building an AI-Powered Newsletter Pipeline on n8n - Harshvardhan Singh
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
 Week 1 : Machine Learning
 
 Data Storytelling: Analysing Survival on the Titanic
@@ -53,17 +27,3 @@ Chat with Your Knowledge Base: Building a Powerful RAG Chatbot
 Autonomous Market Analyst: Building AI Agents for Deep Research
 Background Verification & Diligence Agent
 Building an AI-Powered Newsletter Pipeline on n8n
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-My Read
-
-1. https://www.geeksforgeeks.org/machine-learning/titanic-survival-prediction-using-ml/
-
-
-MKDIR 1_Titanic_Survival 2_Netflix 3_Housing_Market 4__Heart_Disease 5_Unlocking_Customer_Personas 6_Store_Sales 7_Customer_churn 8_Digit_Recognizer 9_Image_Classification 10_HuggingFace_Pipelines 11_RealTime_Object_Detector 12_DL_Time_Series_Data 13_Text_Generation_Engine 14_Data_Analysis_withAITools 15_SQL_Generator 16_Smart_OCR_Bot 17_Image_Search_Engine 18_RAG_Chatbot  19_AIAgents_for_DeepResearch 20_BGV_n_DiligenceAgent 21_Newsletter_Pipeline
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-Day 1: Data Storytelling: Analysing Survival on the Titanic
-
